@@ -1,2 +1,2 @@
-# F28WP-lab1
+README
 Lab 1 activity for Web Programming
